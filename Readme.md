@@ -131,6 +131,8 @@ type Status struct {
 
 ```
 
+Note - I have added .env in frontend folder to make it easier to run the project end to end without much effort. Though the best practice is to not include .env file in your project.
+
 ## Demo
 
 ### Homepage
