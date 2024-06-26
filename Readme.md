@@ -12,6 +12,7 @@ This project is a simplified job scheduler with a React frontend that visualizes
 4. [Usage](#usage)
 5. [Design Choices](#design-choices)
 6. [Models and structures used](#data-structures)
+7. [Demo](#demo)
 
 ## Features
 
@@ -130,4 +131,11 @@ type Status struct {
 
 ```
 
+## Demo
+
+### Homepage
+<img src="https://github.com/atarax665/Job-Scheduler-Go-React-Websocket/blob/master/assets/homepage.png" alt="Homepage" width="800" height="500" />
+
+### Working Gif
+<img src="https://github.com/atarax665/Job-Scheduler-Go-React-Websocket/blob/master/assets/Demo.gif" alt="Homepage" width="800" height="500" />
 Feel free to reach out if you have any questions !!
