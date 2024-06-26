@@ -41,8 +41,8 @@ This project is a simplified job scheduler with a React frontend that visualizes
 1. Clone the repository:
 
    ```sh
-   git clone <repository-url>
-   cd <repository-directory>/backend
+   git clone https://github.com/atarax665/Job-Scheduler-Go-React-Websocket.git
+   cd Job-Scheduler-Go-React-Websocket/backend
    ```
 
 2. Install dependencies:
@@ -61,7 +61,7 @@ This project is a simplified job scheduler with a React frontend that visualizes
 1. Navigate to the frontend directory:
 
    ```sh
-   cd <repository-directory>/frontend
+   cd Job-Scheduler-Go-React-Websocket/frontend
    ```
 
 2. Install dependencies:
